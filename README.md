@@ -29,5 +29,5 @@ streamlit run app.py
 
 ## Output
 
-![App Screenshot](screenshot.png)
+![App Screenshot](taskmanager.png)
 
