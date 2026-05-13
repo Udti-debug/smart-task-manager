@@ -13,17 +13,19 @@ This is a simple task management application built using Python and Streamlit.
 - Python
 - Streamlit
 
-## How to Run
-```bash
-streamlit run app.py
-
-**Future Improvements**
+Future Improvements
 ~AI-based task suggestions
 ~Deadline tracking
 ~Task reminders
 
 Author
 Anjali Meshram
+
+## How to Run
+```bash
+streamlit run app.py
+
+
 
 ## Output
 
