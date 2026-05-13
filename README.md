@@ -25,3 +25,7 @@ streamlit run app.py
 Author
 Anjali Meshram
 
+## Output
+
+![App Screenshot](screenshot.png)
+
